@@ -1,0 +1,2 @@
+#!/bin/baash
+tr "A" "Z" | tr "c" "e"
